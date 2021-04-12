@@ -1,6 +1,6 @@
 # AMLSII_assignment
 Image classification task with 6 classes. Dataset link: https://www.kaggle.com/puneet6060/intel-image-classification
-Dataset is too big to upload. To test code download dataset and insert in /dataset folder.
+Dataset is too big to upload. To test code download dataset and insert in /archive folder.
 This project is separated in three parts:
 
 Part 1: Base classifier.
