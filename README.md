@@ -19,3 +19,4 @@ How to execute:
 4. Run main.py
 
 The models trained in each part will be stored and imported to main.py to bring all together and create final model.
+Inside the folders are the Jupyter notebooks that were used.
