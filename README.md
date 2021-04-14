@@ -20,3 +20,5 @@ How to execute:
 
 The models trained in each part will be stored and imported to main.py to bring all together and create final model.
 Inside the folders are the Jupyter notebooks that were used.
+
+The "requirements" file contains the versions of libraries used in python.
